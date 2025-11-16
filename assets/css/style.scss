@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}"; 
+
+/* 2カラムレイアウト */
+.wrapper-two-columns {
+  display: flex;
+  gap: 2rem;
+}
+
+/* 右側のメインコンテンツ */
+.content-main {
+  flex: 3;
+}
+
+/* 左側のサイドバー */
+.sidebar {
+  flex: 1;
+  font-size: 0.9rem;
+  border-right: 1px solid #00ff00;
+  padding-right: 1rem;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar li {
+  margin-bottom: 0.5rem;
+}
