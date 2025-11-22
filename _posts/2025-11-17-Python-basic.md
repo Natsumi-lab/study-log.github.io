@@ -3,6 +3,7 @@ layout: post
 title: "Python 基本編"
 date: 2025-11-17
 categories: [Python]  
+permalink: /Python/  
 ---
 
 # Pythonの基本

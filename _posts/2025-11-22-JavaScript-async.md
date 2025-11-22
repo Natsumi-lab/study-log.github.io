@@ -3,6 +3,7 @@ layout: post
 title: "非同期処理"
 date: 2025-11-22
 categories: [JavaScript]  
+permalink: /JavaScript/  
 ---
 まず、プログラムはコードの上から順に実行していくものであるから、  
 上の処理が終わらないと次にいけないという前提がある   
